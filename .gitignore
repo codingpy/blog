@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# vitepress build output
+.vitepress/dist
+
+# vitepress v1.2.3 cache directory
+.vitepress/cache
