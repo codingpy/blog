@@ -130,7 +130,7 @@ dist
 .pnp.*
 
 # vitepress build output
-.vitepress/dist
+docs/.vitepress/dist
 
 # vitepress v1.2.3 cache directory
-.vitepress/cache
+docs/.vitepress/cache
